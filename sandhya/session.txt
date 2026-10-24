@@ -1,0 +1,19 @@
+<!---
+session :- any task or work 
+
+session_start(); -> before any function / varaible of session in that page 
+
+session_destroy() ; -> end or destroy all information relaited to session 
+
+session_id(); gives unique and same value till session is active 
+
+$_SESSION[] -> session varaible [ to transfer data to multiple pgaes till session is active ]
+
+
+page
+login.php
+check.php
+admin.php 
+end.php
+
+!-->

@@ -1,0 +1,12 @@
+{
+  "name": "explore-learning-portal",
+  "version": "1.0.0",
+  "description": "Explore Learning System deployed seamlessly on Vercel",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node local_server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
